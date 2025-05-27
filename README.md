@@ -7,7 +7,16 @@ The repository is split for each challenge. I have completed 4 challenges total,
 
 
 Verification Clarification
+
+
 Flagdle
+
+
 Sending Mixed Signals
+
+
 FlagsFlagsFlags
+
+
+
 Puzzle Pieces
